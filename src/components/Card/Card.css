@@ -1,4 +1,4 @@
-.cardContainer{
+.cardContainer {
     width: 100%;
     border: 2px solid rgb(214, 213, 213);
     border-radius: 8px;
@@ -19,7 +19,7 @@
 }
 
 
-.showStatus{
+.showStatus {
     position: absolute;
     right: 0;
     bottom: 0;
@@ -27,6 +27,12 @@
     height: 10px;
     background: silver;
     border-radius: 50%;
+}
+.IDcontainer{
+    margin-bottom:10px;
+    display:flex;
+    justify-content:space-between;
+    color:gray;
 }
 
 .cardTags{
