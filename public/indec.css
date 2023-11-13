@@ -1,0 +1,24 @@
+/*  
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #928ea8; 
+    color: white; 
+    padding: 25px;
+    text-align: center;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+  }
+  
+  .social-icons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .social-icons i {
+    margin: 0 10px;
+    color: white;
+  }
+   */
