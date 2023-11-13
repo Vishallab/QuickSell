@@ -13,11 +13,6 @@ The project is a web application developed using React.js. It fetches data from 
 - [License](#license)
 - [Author](#author)
 
-## preview
-![grouping by status](image-1.png)
-remove header
-
-![grouping by priority](image-2.png)
 
 ## Introduction
 
