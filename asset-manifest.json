@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/QuickSell/static/css/main.5084d215.css",
+    "main.js": "/QuickSell/static/js/main.98f48f76.js",
+    "static/media/imgg.png": "/QuickSell/static/media/imgg.6500afd7e58662d995ac.png",
+    "index.html": "/QuickSell/index.html",
+    "main.5084d215.css.map": "/QuickSell/static/css/main.5084d215.css.map",
+    "main.98f48f76.js.map": "/QuickSell/static/js/main.98f48f76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5084d215.css",
+    "static/js/main.98f48f76.js"
+  ]
+}
